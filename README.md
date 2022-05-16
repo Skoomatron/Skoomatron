@@ -5,9 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skoomatron" alt="skoomatron" /></a> </p>
 
-<ul alighn="center">
-  <li> - 🔭 I’m currently working on [Unnamed Game](https://github.com/Skoomatron/MVP) </li>
-</ul>
+<p align="center">
+- 🔭 I’m currently working on [Unnamed Game](https://github.com/Skoomatron/MVP) 
 
 - 🌱 I’m currently learning **Typescript, Unity**
 
@@ -24,6 +23,7 @@
 - 📄 Know about my experiences [LinkdIn](https://www.linkedin.com/in/trevor-j-edwards/)
 
 - ⚡ Fun facts **I love to cook, game, and travel!**
+  </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
