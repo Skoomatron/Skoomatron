@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skoomatron" alt="skoomatron" /></a> </p>
 
-<ul>
+<ul alighn="center">
   <li> - 🔭 I’m currently working on [Unnamed Game](https://github.com/Skoomatron/MVP) </li>
 </ul>
 
