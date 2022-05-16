@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skoomatron" alt="skoomatron" /></a> </p>
 
-- 🔭 I’m currently working on [Unnamed Game](https://github.com/Skoomatron/MVP) 
-
 - 🌱 I’m currently learning **Typescript, Unity**
+
+- 🔭 I’m currently working on [Unnamed Game](https://github.com/Skoomatron/MVP) 
 
 - 🔭 I’m currently working with a group on [Scriptly](https://github.com/SteveOceanProject/Scriptly)
 
