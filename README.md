@@ -11,15 +11,15 @@
 
 - 🔭 I’m currently working with a group on [Scriptly](https://github.com/SteveOceanProject/Scriptly)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Skoomatron?tab=repositories](https://github.com/Skoomatron?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repository](https://github.com/Skoomatron?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.notion.so/fbaa5928922c4db8ba15cdc212fba5ff?v=3832bbb483d64a63bb6f102592f28c31](https://www.notion.so/fbaa5928922c4db8ba15cdc212fba5ff?v=3832bbb483d64a63bb6f102592f28c31)
+- 📝 I regularly write articles on [Notion](https://www.notion.so/fbaa5928922c4db8ba15cdc212fba5ff?v=3832bbb483d64a63bb6f102592f28c31)
 
 - 💬 Ask me about **React, Recoil**
 
 - 📫 How to reach me **trevor.jeffrey.edwards@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/trevor-j-edwards/](https://www.linkedin.com/in/trevor-j-edwards/)
+- 📄 Know about my experiences [LinkdIn](https://www.linkedin.com/in/trevor-j-edwards/)
 
 - ⚡ Fun facts **I love to cook, game, and travel!**
 
