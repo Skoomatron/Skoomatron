@@ -17,9 +17,9 @@
 - 🔭 I’m currently working with a group on [Scriptly](https://github.com/SteveOceanProject/Scriptly)
 </p>
 
-<p align="center">
+
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/Skoomatron?tab=repositories)
-</p>
+
 
 <p align="center">
 - 📝 I regularly write articles on [Notion](https://www.notion.so/fbaa5928922c4db8ba15cdc212fba5ff?v=3832bbb483d64a63bb6f102592f28c31)
