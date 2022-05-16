@@ -5,41 +5,23 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skoomatron" alt="skoomatron" /></a> </p>
 
-<p align="center">
 - 🔭 I’m currently working on [Unnamed Game](https://github.com/Skoomatron/MVP) 
-</p>
 
-<p align="center">
 - 🌱 I’m currently learning **Typescript, Unity**
-</p>
 
-<p align="center">
 - 🔭 I’m currently working with a group on [Scriptly](https://github.com/SteveOceanProject/Scriptly)
-</p>
-
 
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/Skoomatron?tab=repositories)
 
-
-<p align="center">
 - 📝 I regularly write articles on [Notion](https://www.notion.so/fbaa5928922c4db8ba15cdc212fba5ff?v=3832bbb483d64a63bb6f102592f28c31)
-</p>
 
-<p align="center">
 - 💬 Ask me about **React, Recoil**
-</p>
 
-<p align="center">
 - 📫 How to reach me **trevor.jeffrey.edwards@gmail.com**
-</p>
 
-<p align="center">
 - 📄 Know about my experiences [LinkdIn](https://www.linkedin.com/in/trevor-j-edwards/)
-</p>
 
-<p align="center">
 - ⚡ Fun facts **I love to cook, game, and travel!**
-</p>
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
