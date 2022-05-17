@@ -15,7 +15,7 @@
   
 
 <h3 align="center">Languages and Tools:</h3>
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Skoomatron/ama)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skoomatron&theme=tokyonight)
