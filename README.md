@@ -6,7 +6,7 @@
 
 - 🌱 Employed as a SEIR at [Hack Reactor](https://www.hackreactor.com/coding-bootcamp?utm_source=Google&utm_medium=cpc&utm_term=hack%20reactor&utm_campaign=HR_Brand_Keywords_NAT&gclid=CjwKCAjw7IeUBhBbEiwADhiEMR6FkxeYu1hGfMqkNWx1w0WZu8bP8dKD7HIn_dMfxIDy3CnTdsXzJBoCmmsQAvD_BwE)
 
-- 🔭 Something fun I'm working on [Unity Zelda](https://github.com/Skoomatron/MVP) 
+- 🔭 Something fun I'm working on [Unity Zelda](https://github.com/Skoomatron/Zelda-ish-Game-3.0) 
 
 - 📄 Know about my experiences [LinkdIn](https://www.linkedin.com/in/trevor-j-edwards/)
 
