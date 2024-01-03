@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=skoomatron&label=Profile%20views&color=0e75b6&style=flat" alt="skoomatron" /> </p>
 
 
-- 👓 Employed as a Junior Software Engineer at [GoCheck Kids](https://www.gocheckkids.com/)
+- 👓 Employed as a Software Engineer at [GoCheck Kids](https://www.gocheckkids.com/)
 
 - 🔭 Something fun I'm working on [Danger Cube](https://github.com/Krunchatron-Studios/DangerCubeV1-1)
 
