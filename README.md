@@ -1,16 +1,5 @@
-<h1 align="center">🍕 Hi, I'm Trevor Edwards (He/Him/His) 🍕</h1>
-<h3 align="center">🍛 A lively fullstack engineer based in Western, NC! 🍛</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=skoomatron&label=Profile%20views&color=0e75b6&style=flat" alt="skoomatron" /> </p>
 
-
-- 👓 Employed as a Software Engineer at [GoCheck Kids](https://www.gocheckkids.com/)
-
-- 🔭 Something fun I'm working on [Danger Cube](https://github.com/Krunchatron-Studios/DangerCubeV1-1)
-
-- 📄 Know about my experiences [LinkdIn](https://www.linkedin.com/in/trevor-j-edwards/)
-
-- ⚡ Fun facts **I love to cook, game, and travel!**
 
 
 <h3 align="center">Languages and Frameworks</h3>
